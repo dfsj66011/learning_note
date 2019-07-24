@@ -1,4 +1,7 @@
-# nascell-automl
+# [nascell-automl](https://github.com/wallarm/nascell-automl)
+
+> 最新版本代码请参照该项目的源地址：https://github.com/wallarm/nascell-automl
+
 This code belongs to the "Simple implementation of Neural Architecture Search with Reinforcement Learning
 " blog post.
 
