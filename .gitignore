@@ -1,2 +1,10 @@
-.DS_Store
-.idea
+*.DS_Store
+*.idea
+*.pyc
+*__pycache__/
+*.log
+*.pyo
+*.h5
+*/.ipynb_checkpoints/*
+*.model
+*.bin
